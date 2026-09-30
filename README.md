@@ -1,7 +1,3 @@
-# WARP.md
-
-This file provides guidance to WARP (warp.dev) when working with code in this repository.
-
 ## Project Overview
 
 Trusture is a blockchain-based decentralized framework for secure, transparent, and auditable NGO transactions. It provides tamper-evident, auditable donation management for NGOs, donors, regulators, and auditors using blockchain technology, smart contracts, and cryptographic anchoring on the Polygon network.
