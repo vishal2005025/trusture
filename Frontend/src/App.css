@@ -1,0 +1,6 @@
+/* App-specific styles */
+.App {
+  min-height: 100vh;
+}
+
+/* Remove any default Vite styles that might conflict */
